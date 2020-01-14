@@ -1,6 +1,6 @@
 # Siamese-Author-Identification
 
-Please Cite the following paper if you use the Fanfiction database.
+Please cite the following paper if you use the Fanfiction database.
 
 @inProceedings {fernandes-etal:2019:POST,
       author = {Fernandes, Natasha and Mark Dras and Annabelle McIver},
